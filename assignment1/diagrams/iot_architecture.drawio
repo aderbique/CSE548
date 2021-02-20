@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-20T19:08:53.115Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="ST7KAU84-rQc2cUP5hfd" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-20T20:22:22.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="dZSs1objA70kzAsZbFZD" version="14.4.2" type="github">
   <diagram name="Page-1" id="4fc8d65c-f3f6-feb3-4d1c-02f59d9f9886">
     <mxGraphModel dx="1718" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -19,23 +19,13 @@
         <mxCell id="gGTz0LXvLgwchQPlnERu-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="205" y="485" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gGTz0LXvLgwchQPlnERu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="830" y="490" as="sourcePoint" />
-            <mxPoint x="830" y="440" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="830" y="478" />
-              <mxPoint x="830" y="478" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gGTz0LXvLgwchQPlnERu-10" value="Sensors" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="340" y="555" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gGTz0LXvLgwchQPlnERu-12" value="Gateways" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="340" y="420" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gGTz0LXvLgwchQPlnERu-13" value="Processing Unit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="gGTz0LXvLgwchQPlnERu-13" value="Processing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="340" y="280" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gGTz0LXvLgwchQPlnERu-14" value="" style="shape=mxgraph.signs.tech.video_camera;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
