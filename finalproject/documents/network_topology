@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-04-17T17:33:51.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" version="14.5.3" etag="Td89B-d6OAQlkKayAWSd" type="github"><diagram id="CvOWh_hqvUjS4PX_o_iJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-17T17:37:41.928Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="siqK83ojZOSVITi7RPhv" version="14.5.3" type="github">
+  <diagram id="CvOWh_hqvUjS4PX_o_iJ" name="Page-1">
+    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kn4rJ3BMva5guftkMeId-1" value="Attacker&lt;br&gt;192.168.0.10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kn4rJ3BMva5guftkMeId-2" value="Server&lt;br&gt;192.168.0.20" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kn4rJ3BMva5guftkMeId-3" value="Victim&lt;br&gt;192.168.0.30" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kn4rJ3BMva5guftkMeId-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kn4rJ3BMva5guftkMeId-4" target="kn4rJ3BMva5guftkMeId-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kn4rJ3BMva5guftkMeId-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kn4rJ3BMva5guftkMeId-4" target="kn4rJ3BMva5guftkMeId-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kn4rJ3BMva5guftkMeId-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kn4rJ3BMva5guftkMeId-4" target="kn4rJ3BMva5guftkMeId-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kn4rJ3BMva5guftkMeId-4" value="Ansible&lt;br&gt;192.168.0.50" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="280" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kn4rJ3BMva5guftkMeId-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kn4rJ3BMva5guftkMeId-9" target="kn4rJ3BMva5guftkMeId-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kn4rJ3BMva5guftkMeId-9" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
