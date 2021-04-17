@@ -1,11 +1,17 @@
 ---
 
-- name: Initialize all servers
-  hosts: all
-  roles:
-    - initialize
+#- name: Initialize all servers
+#  hosts: all
+#  roles:
+#    - initialize
 
-- name: Deploy nginx to terminals
-  hosts: attacker:victim
+- name: Configure Server
+  hosts: server
   roles:
-    - nginx
+    - server
+
+
+#- name: Deploy nginx to terminals
+#  hosts: attacker:victim
+#  roles:
+#    - nginx
