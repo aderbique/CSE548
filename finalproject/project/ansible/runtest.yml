@@ -1,0 +1,7 @@
+---
+
+- name: Collect Traceroute Data
+  hosts: terminals
+  roles:
+    - runtest
+

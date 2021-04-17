@@ -1,0 +1,11 @@
+---
+
+- name: Initialize all servers
+  hosts: all
+  roles:
+    - initialize
+
+- name: Deploy nginx to terminals
+  hosts: attacker:victim
+  roles:
+    - nginx

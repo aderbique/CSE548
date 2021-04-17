@@ -1,0 +1,5 @@
+---
+- name: Conduct path poisoning
+  hosts: all
+  roles:
+    - poison
