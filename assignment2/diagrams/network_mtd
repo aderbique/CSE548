@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2021-03-28T02:15:02.625Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="9wlxkMW1a9lMBApYXTxD" version="14.5.3" type="github">
+  <diagram id="nJKwTClAyJI72bhprw3_" name="Page-1">
+    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1Cx75TvNO_xXIVsVRySI-3" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="210" y="190" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1Cx75TvNO_xXIVsVRySI-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Cx75TvNO_xXIVsVRySI-1" target="1Cx75TvNO_xXIVsVRySI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Cx75TvNO_xXIVsVRySI-1" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="140" y="150" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Cx75TvNO_xXIVsVRySI-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Cx75TvNO_xXIVsVRySI-2" target="1Cx75TvNO_xXIVsVRySI-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Cx75TvNO_xXIVsVRySI-2" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="140" y="350" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Cx75TvNO_xXIVsVRySI-4" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Application&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="490" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Cx75TvNO_xXIVsVRySI-5" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Decoy/Drain&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="490" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Cx75TvNO_xXIVsVRySI-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Trusted Client&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="120" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1Cx75TvNO_xXIVsVRySI-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Untrusted Client&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="420" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1Cx75TvNO_xXIVsVRySI-21" value="&lt;span style=&quot;font-size: 17px&quot;&gt;MTD Network &lt;br&gt;Mapping Service&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="280" width="140" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
