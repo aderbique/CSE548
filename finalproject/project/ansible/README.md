@@ -6,16 +6,16 @@ Ansible is a configuration management
 ### General Usage  
 ```
 # Login to jump server
-ssh rd.skizzerz.net -p 2220
+ssh user@ansible
 
 # Switch user
 sudo -u ansible -i
 
 # Source virtual environment
-source /home/ansible/venv/bin/activate
+source /home/user/venv/bin/activate
 
 # Navigate to ansible directory
-cd /home/ansible/pgbgp/project/ansible
+cd /home/user/pgbgp/project/ansible
 
 #Run the playbook
 ansible playbook playbook.yml -v
